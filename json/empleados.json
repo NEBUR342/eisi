@@ -1,0 +1,51 @@
+[
+    {
+        "dni": "00000000A",
+        "nombre":"Paco",
+        "apellidos":"Gutierrez Navarro",
+        "puesto":"jefe",
+        "pass":"Admin_1234"
+    },
+    {
+        "dni": "00000001B",
+        "nombre":"Ruben",
+        "apellidos":"Garcia Mendez",
+        "puesto":"jefe cocina",
+        "pass":"JefeCocina_1234"
+    },
+    {
+        "dni": "00000002C",
+        "nombre":"Jose",
+        "apellidos":"Tijeras",
+        "puesto":"Camarero",
+        "pass":"JefeCocina_1234"
+    },
+    {
+        "dni": "00000003D",
+        "nombre":"Maria",
+        "apellidos":"Alvarez Ruiz",
+        "puesto":"Limpiadora",
+        "pass":"Limpiadora_1234"
+    },
+    {
+        "dni": "00000004E",
+        "nombre":"Carmen",
+        "apellidos":"Moreno Fernandez",
+        "puesto":"Camarera",
+        "pass":"JefeCocina_1234"
+    },
+    {
+        "dni": "00000005F",
+        "nombre":"Pedro",
+        "apellidos":"Garcia Pereira",
+        "puesto":"Limpiador",
+        "pass":"JefeCocina_1234"
+    },
+    {
+        "dni": "00000006G",
+        "nombre":"Victor",
+        "apellidos":"Maturano Lechuga",
+        "puesto":"Mantenimiento",
+        "pass":"JefeCocina_1234"
+    }
+]

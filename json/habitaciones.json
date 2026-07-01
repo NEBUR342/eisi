@@ -1,0 +1,73 @@
+[
+    {
+        "numero": "101",
+        "ocupada": true,
+        "limpia": false,
+        "encargado": "00000003D",
+        "fechaUltimaLimpieza": "2026-07-01 07:00"
+    },
+    {
+        "numero": "102",
+        "ocupada": true,
+        "limpia": true,
+        "encargado": "00000003D",
+        "fechaUltimaLimpieza": "2026-07-01 07:30"
+    },
+    {
+        "numero": "103",
+        "ocupada": true,
+        "limpia": true,
+        "encargado": "00000003D",
+        "fechaUltimaLimpieza": "2026-07-01 08:00"
+    },
+    {
+        "numero": "104",
+        "ocupada": true,
+        "limpia": false,
+        "encargado": "00000003D",
+        "fechaUltimaLimpieza": "2026-07-01 18:45",
+        "limpiadaPor": null
+    },
+    {
+        "numero": "105",
+        "ocupada": true,
+        "limpia": true,
+        "encargado": "00000003D",
+        "fechaUltimaLimpieza": "2026-07-01 09:00"
+    },
+    {
+        "numero": "106",
+        "ocupada": false,
+        "limpia": false,
+        "encargado": "00000003D",
+        "fechaUltimaLimpieza": "2026-07-01 09:30"
+    },
+    {
+        "numero": "107",
+        "ocupada": false,
+        "limpia": false,
+        "encargado": "00000003D",
+        "fechaUltimaLimpieza": "2026-07-01 10:00"
+    },
+    {
+        "numero": "108",
+        "ocupada": false,
+        "limpia": false,
+        "encargado": "00000003D",
+        "fechaUltimaLimpieza": "2026-07-01 10:30"
+    },
+    {
+        "numero": "109",
+        "ocupada": false,
+        "limpia": false,
+        "encargado": "00000003D",
+        "fechaUltimaLimpieza": "2026-07-01 11:00"
+    },
+    {
+        "numero": "110",
+        "ocupada": false,
+        "limpia": false,
+        "encargado": "00000003D",
+        "fechaUltimaLimpieza": "2026-07-01 11:30"
+    }
+]
