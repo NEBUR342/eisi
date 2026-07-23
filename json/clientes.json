@@ -1,51 +1,56 @@
 [
     {
-        "dni": "00000010A",
-        "nombre":"Paco",
-        "apellidos":"Gutierrez Navarro",
-        "habitacion":"101",
-        "pass":"Pass_101"
-    },
-    {
-        "dni": "00000020B",
-        "nombre":"Ruben",
-        "apellidos":"Garcia Mendez",
-        "habitacion":"102",
-        "pass":"Pass_102"
-    },
-    {
-        "dni": "00000030C",
-        "nombre":"Jose",
-        "apellidos":"Tijeras",
-        "habitacion":"101",
-        "pass":"Pass_101"
-    },
-    {
-        "dni": "00000040D",
-        "nombre":"Maria",
-        "apellidos":"Alvarez Ruiz",
-        "habitacion":"103",
-        "pass":"Pass_103"
-    },
-    {
-        "dni": "00000050E",
-        "nombre":"Carmen",
-        "apellidos":"Moreno Fernandez",
-        "habitacion":"102",
-        "pass":"Pass_102"
-    },
-    {
-        "dni": "00000060F",
-        "nombre":"Pedro",
-        "apellidos":"Garcia Pereira",
-        "habitacion":"104",
-        "pass":"Pass_104"
-    },
-    {
-        "dni": "00000070G",
-        "nombre":"Victor",
-        "apellidos":"Maturano Lechuga",
-        "habitacion":"105",
-        "pass":"Pass_105"
+        "idHotel": "1",
+        "clientes": [
+            {
+                "habitacion": "101",
+                "dni": "00000010A",
+                "nombre": "Paco",
+                "apellidos": "Gutierrez Navarro",
+                "pass": "Pass_101"
+            },
+            {
+                "habitacion": "101",
+                "dni": "00000030C",
+                "nombre": "Jose",
+                "apellidos": "Tijeras",
+                "pass": "Pass_101"
+            },
+            {
+                "habitacion": "102",
+                "dni": "00000020B",
+                "nombre": "Ruben",
+                "apellidos": "Garcia Mendez",
+                "pass": "Pass_102"
+            },
+            {
+                "habitacion": "102",
+                "dni": "00000050E",
+                "nombre": "Carmen",
+                "apellidos": "Moreno Fernandez",
+                "pass": "Pass_102"
+            },
+            {
+                "habitacion": "103",
+                "dni": "00000040D",
+                "nombre": "Maria",
+                "apellidos": "Alvarez Ruiz",
+                "pass": "Pass_103"
+            },
+            {
+                "habitacion": "104",
+                "dni": "00000060F",
+                "nombre": "Pedro",
+                "apellidos": "Garcia Pereira",
+                "pass": "Pass_104"
+            },
+            {
+                "habitacion": "105",
+                "dni": "00000070G",
+                "nombre": "Victor",
+                "apellidos": "Maturano Lechuga",
+                "pass": "Pass_105"
+            }
+        ]
     }
 ]
