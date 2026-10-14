@@ -46,6 +46,11 @@
                                 location.href = "../empleados/limpiador/index.php";
                                 break;
 
+                            case "mozo":
+                            case "moza":
+                                location.href = "../empleados/mozo/index.php";
+                                break;
+
                             default:
                                 alert("Este empleado no tiene panel.");
 

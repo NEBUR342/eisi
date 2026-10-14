@@ -1,0 +1,55 @@
+[
+    {
+        "idHotel": "1",
+        "clientes": [
+            {
+                "idPedido": "1",
+                "idDemandante": "00000005F",
+                "idDemandado": "00000007H",
+                "idRealizador": "",
+                "descripcion": "2 toallas grandes",
+                "imagen": "",
+                "prioridad": "bajo",
+                "realizado": false,
+                "fechaPedido": "2026-07-28 12:15",
+                "fechaRealizado": ""
+            },
+            {
+                "idPedido": "2",
+                "idDemandante": "00000005F",
+                "idDemandado": "00000007H",
+                "idRealizador": "00000007H",
+                "descripcion": "Limpiar baño habitación 210",
+                "imagen": "",
+                "prioridad": "alto",
+                "realizado": true,
+                "fechaPedido": "2026-07-28 12:25",
+                "fechaRealizado": "2026-07-28 12:55"
+            },
+            {
+                "idPedido": "3",
+                "idDemandante": "00000005F",
+                "idDemandado": "00000007H",
+                "idRealizador": "",
+                "descripcion": "sabanas pequeñas",
+                "imagen": "",
+                "prioridad": "medio",
+                "realizado": false,
+                "fechaPedido": "2026-07-28 13:35",
+                "fechaRealizado": ""
+            },
+            {
+                "idPedido": "4",
+                "idDemandante": "00000001B",
+                "idDemandado": "00000006G",
+                "idRealizador": "",
+                "descripcion": "arreglar pomo puerta de cocina",
+                "imagen": "/src/img/img.jpg",
+                "prioridad": "bajo",
+                "realizado": false,
+                "fechaPedido": "2026-07-28 13:35",
+                "fechaRealizado": ""
+            }
+        ]
+    }
+]

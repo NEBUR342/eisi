@@ -10,6 +10,9 @@
     <h2>Panel de limpieza</h2>
     <p id="empleado"></p>
     <hr>
+    <button onclick="location.reload()">
+        🔄 Recargar datos
+    </button>
     <div id="habitaciones"></div>
     <script>
         let empleado = JSON.parse(sessionStorage.getItem("empleado"));

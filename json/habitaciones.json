@@ -7,14 +7,14 @@
                 "ocupada": true,
                 "limpia": true,
                 "encargado": "00000003D",
-                "fechaUltimaLimpieza": "2026-07-23 19:00"
+                "fechaUltimaLimpieza": "2026-09-17 11:37"
             },
             {
                 "numero": "102",
                 "ocupada": true,
                 "limpia": true,
                 "encargado": "00000003D",
-                "fechaUltimaLimpieza": "2026-07-01 07:30"
+                "fechaUltimaLimpieza": "2026-09-17 11:36"
             },
             {
                 "numero": "103",
@@ -41,9 +41,9 @@
             {
                 "numero": "106",
                 "ocupada": false,
-                "limpia": false,
+                "limpia": true,
                 "encargado": "00000003D",
-                "fechaUltimaLimpieza": "2026-07-01 09:30"
+                "fechaUltimaLimpieza": "2026-09-17 11:14"
             },
             {
                 "numero": "107",
